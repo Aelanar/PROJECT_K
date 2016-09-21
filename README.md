@@ -1,6 +1,6 @@
 # PROJECT_K
 
-# __**What** is project_K ?__
+# _**What** is project K ?_
 
 We all don't really know... but what we all understand is that the Earth is endangered...
 
